@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Sunil",
+    "image": "https://unsplash.com/photos/_tcJW4nqVtw",
+    "drive": "Car",
+    "price": 5000,
+    "place": "Bengaluru",
+    "rating": 4.6,
+    "contact": 9980345821
+  },
+  {
+    "id": 2,
+    "name": "Sunil Kumar",
+    "image": "https://unsplash.com/photos/kfN-BBbWTWo",
+    "drive": "Car",
+    "price": 6000,
+    "place": "Bengaluru",
+    "rating": 4.6,
+    "contact": 9980345822
+  },
+  {
+    "id": 3,
+    "name": "Krishna Adiga",
+    "image": "https://unsplash.com/photos/ILip77SbmOE",
+    "drive": "Car",
+    "price": 8000,
+    "place": "Bengaluru",
+    "rating": 4.8,
+    "contact": 9980345823
+  },
+  {
+    "id": 4,
+    "name": "Mahesh",
+    "image": "https://unsplash.com/photos/7YVZYZeITc8",
+    "drive": "Bus",
+    "price": 7000,
+    "place": "Bengaluru",
+    "rating": 4.9,
+    "contact": 9980345824
+  },
+  {
+    "id": 5,
+    "name": "Tejas",
+    "image": "https://unsplash.com/photos/j3lf-Jn6deo",
+    "drive": "Bus",
+    "price": 6500,
+    "place": "Bengaluru",
+    "rating": 4.7,
+    "contact": 9980345825
+  },
+  {
+    "id": 6,
+    "name": "Aditya",
+    "image": "https://unsplash.com/photos/XcZ78DlXtes",
+    "drive": "Bus",
+    "price": 8500,
+    "place": "Bengaluru",
+    "rating": 4.95,
+    "contact": 9980345826
+  },
+  {
+    "id": 7,
+    "name": "Sudarshan",
+    "image": "https://unsplash.com/photos/vzticETKMYU",
+    "drive": "Truck",
+    "price": 9000,
+    "place": "Bengaluru",
+    "rating": 4.8,
+    "contact": 9980345827
+  },
+  {
+    "id": 8,
+    "name": "Amith",
+    "image": "https://unsplash.com/photos/7YVZYZeITc8",
+    "drive": "Car",
+    "price": 8000,
+    "place": "Bengaluru",
+    "rating": 4.4,
+    "contact": 9980345828
+  },
+  {
+    "id": 9,
+    "name": "Prajwal",
+    "image": "https://unsplash.com/photos/apJKb2Js_Vg",
+    "drive": "Truck",
+    "price": 4000,
+    "place": "Bengaluru",
+    "rating": 4.5,
+    "contact": 9980345829
+  },
+  {
+    "id": 10,
+    "name": "Sunil Krishna",
+    "image": "https://unsplash.com/photos/kfN-BBbWTWo",
+    "drive": "Car",
+    "price": 5500,
+    "place": "Bengaluru",
+    "rating": 4.7,
+    "contact": 9980345820
+  },
+  {
+    "id": 11,
+    "name": "Darshan",
+    "image": "https://unsplash.com/photos/XcZ78DlXtes",
+    "drive": "Car",
+    "price": 5000,
+    "place": "Mysore",
+    "rating": 4.6,
+    "contact": 9980345831
+  },
+  {
+    "id": 12,
+    "name": "Harsha",
+    "image": "https://unsplash.com/photos/ILip77SbmOE",
+    "drive": "Car",
+    "price": 6000,
+    "place": "Mysore",
+    "rating": 4.6,
+    "contact": 9980345832
+  },
+  {
+    "id": 13,
+    "name": "Amaresh",
+    "image": "https://unsplash.com/photos/kfN-BBbWTWo",
+    "drive": "Car",
+    "price": 8000,
+    "place": "Mysore",
+    "rating": 4.8,
+    "contact": 9980345833
+  },
+  {
+    "id": 14,
+    "name": "Krishna Holla",
+    "image": "https://unsplash.com/photos/7YVZYZeITc8",
+    "drive": "Bus",
+    "price": 7000,
+    "place": "Mysore",
+    "rating": 4.9,
+    "contact": 9980345834
+  },
+  {
+    "id": 15,
+    "name": "Mani",
+    "image": "https://unsplash.com/photos/vzticETKMYU",
+    "drive": "Bus",
+    "price": 6500,
+    "place": "Mysore",
+    "rating": 4.7,
+    "contact": 9980345835
+  },
+  {
+    "id": 16,
+    "name": "Gagan",
+    "image": "https://unsplash.com/photos/7YVZYZeITc8",
+    "drive": "Bus",
+    "price": 8500,
+    "place": "Mysore",
+    "rating": 4.95,
+    "contact": 9980345836
+  },
+  {
+    "id": 17,
+    "name": "Samanth",
+    "image": "https://unsplash.com/photos/apJKb2Js_Vg",
+    "drive": "Truck",
+    "price": 9000,
+    "place": "Mysore",
+    "rating": 4.8,
+    "contact": 9980345837
+  },
+  {
+    "id": 18,
+    "name": "Diva",
+    "image": "https://unsplash.com/photos/j3lf-Jn6deo",
+    "drive": "Car",
+    "price": 8000,
+    "place": "Mysore",
+    "rating": 4.4,
+    "contact": 9980345838
+  },
+  {
+    "id": 19,
+    "name": "Prajwal K.S",
+    "image": "https://unsplash.com/photos/vzticETKMYU",
+    "drive": "Truck",
+    "price": 4000,
+    "place": "Mysore",
+    "rating": 4.5,
+    "contact": 9980345839
+  },
+  {
+    "id": 20,
+    "name": "Rahul",
+    "image": "https://unsplash.com/photos/XcZ78DlXtes",
+    "drive": "Car",
+    "price": 5500,
+    "place": "Mysore",
+    "rating": 4.7,
+    "contact": 9980345830
+  },
+  {
+    "id": 21,
+    "name": "Dhanush",
+    "image": "https://unsplash.com/photos/_tcJW4nqVtw",
+    "drive": "Car",
+    "price": 5000,
+    "place": "Bijapur",
+    "rating": 4.6,
+    "contact": 9980345841
+  },
+  {
+    "id": 22,
+    "name": "Jayanth",
+    "image": "https://unsplash.com/photos/kfN-BBbWTWo",
+    "drive": "Car",
+    "price": 6000,
+    "place": "Ballari",
+    "rating": 4.6,
+    "contact": 9980345842
+  },
+  {
+    "id": 23,
+    "name": "Karthik",
+    "image": "https://unsplash.com/photos/ILip77SbmOE",
+    "drive": "Car",
+    "price": 8000,
+    "place": "Udupi",
+    "rating": 4.8,
+    "contact": 9980345843
+  },
+  {
+    "id": 24,
+    "name": "Mahaling",
+    "image": "https://unsplash.com/photos/_tcJW4nqVtw",
+    "drive": "Bus",
+    "price": 7000,
+    "place": "Bijapur",
+    "rating": 4.9,
+    "contact": 9980345844
+  },
+  {
+    "id": 25,
+    "name": "Abhi",
+    "image": "https://unsplash.com/photos/kfN-BBbWTWo",
+    "drive": "Bus",
+    "price": 6500,
+    "place": "Ballari",
+    "rating": 4.7,
+    "contact": 9980345845
+  },
+  {
+    "id": 26,
+    "name": "Vikas",
+    "image": "https://unsplash.com/photos/7YVZYZeITc8",
+    "drive": "Bus",
+    "price": 8500,
+    "place": "Udupi",
+    "rating": 4.95,
+    "contact": 9980345846
+  },
+  {
+    "id": 27,
+    "name": "Sumanth",
+    "image": "https://unsplash.com/photos/kfN-BBbWTWo",
+    "drive": "Truck",
+    "price": 9000,
+    "place": "Ballari",
+    "rating": 4.8,
+    "contact": 9980345847
+  },
+  {
+    "id": 28,
+    "name": "Yallaling",
+    "image": "https://unsplash.com/photos/_tcJW4nqVtw",
+    "drive": "Car",
+    "price": 8000,
+    "place": "Udupi",
+    "rating": 4.4,
+    "contact": 9980345848
+  },
+  {
+    "id": 29,
+    "name": "Yashas",
+    "image": "https://unsplash.com/photos/ILip77SbmOE",
+    "drive": "Truck",
+    "price": 4000,
+    "place": "Bijapur",
+    "rating": 4.5,
+    "contact": 9980345849
+  },
+  {
+    "id": 30,
+    "name": "Sujay",
+    "image": "https://unsplash.com/photos/apJKb2Js_Vg",
+    "drive": "Car",
+    "price": 5500,
+    "place": "Ballari",
+    "rating": 4.7,
+    "contact": 9980345840
+  }
+]
