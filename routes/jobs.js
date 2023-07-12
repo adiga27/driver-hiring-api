@@ -2,8 +2,6 @@ const express = require("express");
 const router = express.Router();
 const Jobs = require("../models/jobModel");
 
-// const users = require("../data.json");
-
 router.get("/", async (req, res) => {
   try {
     const page = parseInt(req.query.page);
@@ -40,6 +38,10 @@ router.get("/", async (req, res) => {
       });
     }
 
+    if (!filteredJob) {
+      filteredJob = jobs;
+    }
+
     if (endPage < filteredJob.length) {
       results.next = {
         page: page + 1,
@@ -54,16 +56,11 @@ router.get("/", async (req, res) => {
       };
     }
 
-    results.results = filteredJob.slice(startPage, endPage);
-
-    // const filteredUsers = results.results.filter((driver) => {
-    //   for (key in filters) {
-    //     console.log(key, driver[key], filters[key]);
-    //     isValid = isValid && driver[key] == filters[key];
-    //   }
-    //   return isValid;
-    // });
-    // res.send(filteredUsers);
+    if (!startPage && !endPage) {
+      results.results = filteredJob;
+    } else {
+      results.results = filteredJob.slice(startPage, endPage);
+    }
 
     res.json(results);
   } catch (err) {
