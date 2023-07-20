@@ -35,6 +35,10 @@ const jobsSchema = new mongoose.Schema({
     required: true,
     unique: [true, "Driver should have unique number"],
   },
+  pricePerKm: {
+    type: Number,
+    default: 6,
+  },
 });
 
 module.exports = mongoose.model("Jobs", jobsSchema);
