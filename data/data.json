@@ -4,329 +4,329 @@
     "name": "Sunil",
     "image": "https://images.unsplash.com/photo-1623366302587-b38b1ddaefd9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=725&q=80",
     "drive": "Car",
-    "price": "1550",
+    "price": 1550,
     "place": "Bengaluru",
     "rating": 4.6,
-    "contact": "9980345821",
-    "pricePerKm": "9"
+    "contact": 9980345821,
+    "pricePerKm": 9
   },
   {
     "id": 2,
     "name": "Sunil Kumar",
     "image": "https://images.unsplash.com/photo-1583195763986-0231686dcd43?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=876&q=80",
     "drive": "Car",
-    "price": "700",
+    "price": 700,
     "place": "Bengaluru",
     "rating": 4.6,
-    "contact": "9980345822",
-    "pricePerKm": "11"
+    "contact": 9980345822,
+    "pricePerKm": 11
   },
   {
     "id": 3,
     "name": "Krishna Adiga",
     "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
     "drive": "Car",
-    "price": "450",
+    "price": 450,
     "place": "Bengaluru",
     "rating": 4.8,
-    "contact": "9980345823",
-    "pricePerKm": "8"
+    "contact": 9980345823,
+    "pricePerKm": 8
   },
   {
     "id": 4,
     "name": "Mahesh Dalle",
     "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
     "drive": "Bus",
-    "price": "1200",
+    "price": 1200,
     "place": "Bengaluru",
     "rating": 4.9,
-    "contact": "9980345824",
-    "pricePerKm": "7"
+    "contact": 9980345824,
+    "pricePerKm": 7
   },
   {
     "id": 5,
     "name": "Tejas",
     "image": "https://images.unsplash.com/photo-1522556189639-b150ed9c4330?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
     "drive": "Bus",
-    "price": "1300",
+    "price": 1300,
     "place": "Bengaluru",
     "rating": 4.7,
-    "contact": "9980345825",
-    "pricePerKm": "9"
+    "contact": 9980345825,
+    "pricePerKm": 9
   },
   {
     "id": 6,
     "name": "Aditya",
     "image": "https://images.unsplash.com/photo-1594672830234-ba4cfe1202dc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
     "drive": "Bus",
-    "price": "1250",
+    "price": 1250,
     "place": "Bengaluru",
     "rating": 4.9,
-    "contact": "9980345826",
-    "pricePerKm": "9"
+    "contact": 9980345826,
+    "pricePerKm": 9
   },
   {
     "id": 7,
     "name": "Sudarshan",
     "image": "https://images.unsplash.com/photo-1567324216289-97cc4134f626?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
     "drive": "Truck",
-    "price": "650",
+    "price": 650,
     "place": "Bengaluru",
     "rating": 4.8,
-    "contact": "9980345827",
-    "pricePerKm": "7"
+    "contact": 9980345827,
+    "pricePerKm": 7
   },
   {
     "id": 8,
     "name": "Amith",
     "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
     "drive": "Car",
-    "price": "1100",
+    "price": 1100,
     "place": "Bengaluru",
     "rating": 4.4,
-    "contact": "9980345828",
-    "pricePerKm": "15"
+    "contact": 9980345828,
+    "pricePerKm": 15
   },
   {
     "id": 9,
     "name": "Prajwal G",
     "image": "https://images.unsplash.com/photo-1586796676774-c93004ae009f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=465&q=80",
     "drive": "Truck",
-    "price": "850",
+    "price": 850,
     "place": "Bengaluru",
     "rating": 4.5,
-    "contact": "9980345829",
-    "pricePerKm": "13"
+    "contact": 9980345829,
+    "pricePerKm": 13
   },
   {
     "id": 10,
     "name": "Sunil Krishna",
     "image": "https://images.unsplash.com/photo-1583195763986-0231686dcd43?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=876&q=80",
     "drive": "Car",
-    "price": "750",
+    "price": 750,
     "place": "Bengaluru",
     "rating": 4.7,
-    "contact": "9980345820",
-    "pricePerKm": "8"
+    "contact": 9980345820,
+    "pricePerKm": 8
   },
   {
     "id": 11,
     "name": "Darshan",
     "image": "https://images.unsplash.com/photo-1594672830234-ba4cfe1202dc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
     "drive": "Car",
-    "price": "600",
+    "price": 600,
     "place": "Mysore",
     "rating": 4.6,
-    "contact": "9980345831",
-    "pricePerKm": "7"
+    "contact": 9980345831,
+    "pricePerKm": 7
   },
   {
     "id": 12,
     "name": "Harsha",
     "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
     "drive": "Car",
-    "price": "1500",
+    "price": 1500,
     "place": "Mysore",
     "rating": 4.6,
-    "contact": "9980345832",
-    "pricePerKm": "10"
+    "contact": 9980345832,
+    "pricePerKm": 10
   },
   {
     "id": 13,
     "name": "Amaresh",
     "image": "https://images.unsplash.com/photo-1583195763986-0231686dcd43?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=876&q=80",
     "drive": "Car",
-    "price": "1200",
+    "price": 1200,
     "place": "Mysore",
     "rating": 4.8,
-    "contact": "9980345833",
-    "pricePerKm": "10"
+    "contact": 9980345833,
+    "pricePerKm": 10
   },
   {
     "id": 14,
     "name": "Krishna Holla",
     "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
     "drive": "Bus",
-    "price": "1300",
+    "price": 1300,
     "place": "Mysore",
     "rating": 4.9,
-    "contact": "9980345834",
-    "pricePerKm": "13"
+    "contact": 9980345834,
+    "pricePerKm": 13
   },
   {
     "id": 15,
     "name": "Mani",
     "image": "https://images.unsplash.com/photo-1567324216289-97cc4134f626?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
     "drive": "Bus",
-    "price": "700",
+    "price": 700,
     "place": "Mysore",
     "rating": 4.7,
-    "contact": "9980345835",
-    "pricePerKm": "6"
+    "contact": 9980345835,
+    "pricePerKm": 6
   },
   {
     "id": 16,
     "name": "Gagan",
     "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
     "drive": "Bus",
-    "price": "500",
+    "price": 500,
     "place": "Mysore",
     "rating": 4.9,
-    "contact": "9980345836",
-    "pricePerKm": "15"
+    "contact": 9980345836,
+    "pricePerKm": 15
   },
   {
     "id": 17,
     "name": "Samanth",
     "image": "https://images.unsplash.com/photo-1586796676774-c93004ae009f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=465&q=80",
     "drive": "Truck",
-    "price": "1300",
+    "price": 1300,
     "place": "Mysore",
     "rating": 4.8,
-    "contact": "9980345837",
-    "pricePerKm": "13"
+    "contact": 9980345837,
+    "pricePerKm": 13
   },
   {
     "id": 18,
     "name": "Diva",
     "image": "https://images.unsplash.com/photo-1522556189639-b150ed9c4330?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
     "drive": "Car",
-    "price": "1400",
+    "price": 1400,
     "place": "Mysore",
     "rating": 4.4,
-    "contact": "9980345838",
-    "pricePerKm": "8"
+    "contact": 9980345838,
+    "pricePerKm": 8
   },
   {
     "id": 19,
     "name": "Prajwal K.S",
     "image": "https://images.unsplash.com/photo-1567324216289-97cc4134f626?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
     "drive": "Truck",
-    "price": "600",
+    "price": 600,
     "place": "Mysore",
     "rating": 4.5,
-    "contact": "9980345839",
-    "pricePerKm": "11"
+    "contact": 9980345839,
+    "pricePerKm": 11
   },
   {
     "id": 20,
     "name": "Rahul",
     "image": "https://images.unsplash.com/photo-1594672830234-ba4cfe1202dc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
     "drive": "Car",
-    "price": "800",
+    "price": 800,
     "place": "Mysore",
     "rating": 4.7,
-    "contact": "9980345830",
-    "pricePerKm": "13"
+    "contact": 9980345830,
+    "pricePerKm": 13
   },
   {
     "id": 21,
     "name": "Dhanush",
     "image": "https://images.unsplash.com/photo-1623366302587-b38b1ddaefd9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=725&q=80",
     "drive": "Car",
-    "price": "950",
+    "price": 950,
     "place": "Bijapur",
     "rating": 4.6,
-    "contact": "9980345841",
-    "pricePerKm": "11"
+    "contact": 9980345841,
+    "pricePerKm": 11
   },
   {
     "id": 22,
     "name": "Jayanth",
     "image": "https://images.unsplash.com/photo-1583195763986-0231686dcd43?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=876&q=80",
     "drive": "Car",
-    "price": "1200",
+    "price": 1200,
     "place": "Ballari",
     "rating": 4.6,
-    "contact": "9980345842",
-    "pricePerKm": "13"
+    "contact": 9980345842,
+    "pricePerKm": 13
   },
   {
     "id": 23,
     "name": "Karthik",
     "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
     "drive": "Car",
-    "price": "950",
+    "price": 950,
     "place": "Udupi",
     "rating": 4.8,
-    "contact": "9980345843",
-    "pricePerKm": "12"
+    "contact": 9980345843,
+    "pricePerKm": 12
   },
   {
     "id": 24,
     "name": "Mahaling",
     "image": "https://images.unsplash.com/photo-1623366302587-b38b1ddaefd9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=725&q=80",
     "drive": "Bus",
-    "price": "1350",
+    "price": 1350,
     "place": "Bijapur",
     "rating": 4.9,
-    "contact": "9980345844",
-    "pricePerKm": "10"
+    "contact": 9980345844,
+    "pricePerKm": 10
   },
   {
     "id": 25,
     "name": "Abhi",
     "image": "https://images.unsplash.com/photo-1583195763986-0231686dcd43?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=876&q=80",
     "drive": "Bus",
-    "price": "1500",
+    "price": 1500,
     "place": "Ballari",
     "rating": 4.7,
-    "contact": "9980345845",
-    "pricePerKm": "9"
+    "contact": 9980345845,
+    "pricePerKm": 9
   },
   {
     "id": 26,
     "name": "Vikas",
     "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
     "drive": "Bus",
-    "price": "1400",
+    "price": 1400,
     "place": "Udupi",
     "rating": 4.9,
-    "contact": "9980345846",
-    "pricePerKm": "8"
+    "contact": 9980345846,
+    "pricePerKm": 8
   },
   {
     "id": 27,
     "name": "Sumanth",
     "image": "https://images.unsplash.com/photo-1583195763986-0231686dcd43?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=876&q=80",
     "drive": "Truck",
-    "price": "1300",
+    "price": 1300,
     "place": "Ballari",
     "rating": 4.8,
-    "contact": "9980345847",
-    "pricePerKm": "12"
+    "contact": 9980345847,
+    "pricePerKm": 12
   },
   {
     "id": 28,
     "name": "Yallaling",
     "image": "https://images.unsplash.com/photo-1623366302587-b38b1ddaefd9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=725&q=80",
     "drive": "Car",
-    "price": "550",
+    "price": 550,
     "place": "Udupi",
     "rating": 4.4,
-    "contact": "9980345848",
-    "pricePerKm": "7"
+    "contact": 9980345848,
+    "pricePerKm": 7
   },
   {
     "id": 29,
     "name": "Yashas",
     "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
     "drive": "Truck",
-    "price": "1200",
+    "price": 1200,
     "place": "Bijapur",
     "rating": 4.5,
-    "contact": "9980345849",
-    "pricePerKm": "6"
+    "contact": 9980345849,
+    "pricePerKm": 6
   },
   {
     "id": 30,
     "name": "Sujay",
     "image": "https://images.unsplash.com/photo-1586796676774-c93004ae009f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=465&q=80",
     "drive": "Car",
-    "price": "900",
+    "price": 900,
     "place": "Ballari",
     "rating": 4.7,
-    "contact": "9980345840",
-    "pricePerKm": "14"
+    "contact": 9980345840,
+    "pricePerKm": 14
   }
 ]

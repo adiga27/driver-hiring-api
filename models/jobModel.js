@@ -17,7 +17,7 @@ const jobsSchema = new mongoose.Schema({
     required: [true, "Vehicle should be mentioned"],
   },
   price: {
-    type: String,
+    type: Number,
     required: [true, "Driver must have a price for a day"],
   },
   place: {
@@ -31,12 +31,12 @@ const jobsSchema = new mongoose.Schema({
     max: [5, "Rating must be below 5.0"],
   },
   contact: {
-    type: String,
+    type: Number,
     required: true,
     unique: [true, "Driver should have unique number"],
   },
   pricePerKm: {
-    type: String,
+    type: Number,
     default: 6,
   },
 });
